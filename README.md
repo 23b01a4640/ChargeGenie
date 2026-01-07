@@ -122,7 +122,7 @@ It combines:
 ---
 
 ## 📂 Project Structure
-
+```text
 ChargeGenie/
 │
 ├── backend/
@@ -148,7 +148,7 @@ ChargeGenie/
 │
 ├── .gitignore
 └── README.md
-
+```
 
 ## 🔑 Environment Variables
 
@@ -188,17 +188,17 @@ The .env file is ignored via .gitignore and is never committed to GitHub.
 
 ## ✅ Current Status
 
-✔ Route rendering with Google Directions
-✔ Charging station markers visible on map
-✔ OpenChargeMap fully integrated
-✔ Deterministic charging recommendations
-✔ Role-based dashboards (User / Admin)
-✔ Secure authentication & logout
-✔ MongoDB-based admin overrides
+- ✔ Route rendering with Google Directions
+- ✔ Charging station markers visible on map
+- ✔ OpenChargeMap fully integrated
+- ✔ Deterministic charging recommendations
+- ✔ Role-based dashboards (User / Admin)
+- ✔ Secure authentication & logout
+- ✔ MongoDB-based admin overrides
 
-##🔮 Future Enhancements (Planned)
+## 🔮 Future Enhancements (Planned)
 
-##📊 Admin Data Analytics
+## 📊 Admin Data Analytics
 
 - Charging demand heatmaps
 
@@ -220,7 +220,7 @@ The .env file is ignored via .gitignore and is never committed to GitHub.
 
 - Context-aware using route & vehicle data
 
-##🎨 Polished UI / UX
+## 🎨 Polished UI / UX
 
 - Station list synced with map view
 
